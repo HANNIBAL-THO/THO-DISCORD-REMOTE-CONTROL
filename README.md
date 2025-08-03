@@ -76,6 +76,7 @@ Una vez iniciado, el bot se conectará a Discord y estará listo para recibir co
 ## 🔧 Requisitos
 
 - Go 1.16 o superior
+- upx 5.0.1
 - Sistema operativo Windows (algunas funciones también son compatibles con Linux)
 - Token de bot de Discord
 
@@ -93,4 +94,5 @@ Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más deta
 
 
 ⚠️ ADVERTENCIA: El uso de este software para acceder a sistemas sin autorización puede constituir un delito. Úselo bajo su propia responsabilidad y solo en entornos controlados con fines educativos.
+
 
