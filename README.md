@@ -13,7 +13,7 @@ THO-DISCORD-CONTROL-REMOTO es una herramienta de control remoto que permite admi
 - 💻 Información detallada del sistema
 - 📸 Captura de pantalla remota
 - 🌐 Información de red y geolocalización
-- 📶 Control de conexiones WiFi
+- 📶 Desabilitacion de conexiones WiFi
 - 🔒 Bloqueo remoto del sistema
 - 🔊 Envío de alertas sonoras
 - 🌍 Apertura de URLs en el navegador
@@ -90,5 +90,6 @@ Una vez iniciado, el bot se conectará a Discord y estará listo para recibir co
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
 
 ---
+
 
 ⚠️ ADVERTENCIA: El uso de este software para acceder a sistemas sin autorización puede constituir un delito. Úselo bajo su propia responsabilidad y solo en entornos controlados con fines educativos.
