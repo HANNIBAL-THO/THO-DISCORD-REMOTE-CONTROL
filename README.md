@@ -42,9 +42,8 @@ cd THO-DISCORD-CONTROL-REMOTO
 ```bash
 go build -o THO-DISCORD-CONTROL-REMOTE.exe
 # para compilar 8 mega
+# Alternativamente, puedes usar el script `compile.bat` para compoilar a 2.800 megaincluido.
 ```
-
-Alternativamente, puedes usar el script `compile.bat` para compoilar a 2.800 megaincluido.
 
 ## 🚀 Uso
 
@@ -96,6 +95,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más deta
 
 
 ⚠️ ADVERTENCIA: El uso de este software para acceder a sistemas sin autorización puede constituir un delito. Úselo bajo su propia responsabilidad y solo en entornos controlados con fines educativos.
+
 
 
 
