@@ -1,5 +1,5 @@
 # THO-DISCORD-CONTROL-REMOTO
-
+# VIDEO TUTORIAL https://youtu.be/GGJs8J5pnlA
 ## 🚨 Descargo de Responsabilidad
 
 Este software ha sido creado con fines educativos y de pruebas personales. El usuario es el único responsable del uso que le dé a esta herramienta. El uso indebido de este software puede violar leyes de privacidad y seguridad informática.
@@ -95,6 +95,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más deta
 
 
 ⚠️ ADVERTENCIA: El uso de este software para acceder a sistemas sin autorización puede constituir un delito. Úselo bajo su propia responsabilidad y solo en entornos controlados con fines educativos.
+
 
 
 
