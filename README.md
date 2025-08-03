@@ -28,7 +28,7 @@ git clone https://github.com/tu-usuario/THO-DISCORD-CONTROL-REMOTO.git
 cd THO-DISCORD-CONTROL-REMOTO
 ```
 
-2. Configura tu token de Discord en un archivo `config.json`:
+2. Configura tu token del bot de Discord en un archivo `config.json`:
 ```json
 {
   "token": "TU_TOKEN_DE_DISCORD",
@@ -93,3 +93,4 @@ Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más deta
 
 
 ⚠️ ADVERTENCIA: El uso de este software para acceder a sistemas sin autorización puede constituir un delito. Úselo bajo su propia responsabilidad y solo en entornos controlados con fines educativos.
+
