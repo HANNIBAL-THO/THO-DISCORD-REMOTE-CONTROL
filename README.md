@@ -82,6 +82,7 @@ Una vez iniciado, el bot se conectará a Discord y estará listo para recibir co
 
 ## 📝 Notas
 
+- Este es mi discord : https://discord.gg/uPESr5v7yQ
 - Este software debe ser utilizado únicamente en sistemas propios o con autorización explícita.
 - No me hago responsable del mal uso de esta herramienta.
 - Este proyecto fue creado con fines educativos para entender cómo funcionan las herramientas de administración remota.
@@ -94,5 +95,6 @@ Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más deta
 
 
 ⚠️ ADVERTENCIA: El uso de este software para acceder a sistemas sin autorización puede constituir un delito. Úselo bajo su propia responsabilidad y solo en entornos controlados con fines educativos.
+
 
 
