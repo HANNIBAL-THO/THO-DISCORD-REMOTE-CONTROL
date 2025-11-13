@@ -23,7 +23,7 @@ THO-DISCORD-CONTROL-REMOTO es una herramienta de control remoto que permite admi
 ## 🔧 Requisitos
 
 - Go 1.16 o superior : https://go.dev/doc/install
-- Gcc win64 link : https://sourceforge.net/projects/gcc-win64/postdownload
+- Gcc win64 link : https://jmeubank.github.io/tdm-gcc/download/
 - Sistema operativo Windows (algunas funciones también son compatibles con Linux)
 - Token de bot de Discord . https://discord.com/developers-
 
@@ -95,6 +95,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más deta
 
 
 ⚠️ ADVERTENCIA: El uso de este software para acceder a sistemas sin autorización puede constituir un delito. Úselo bajo su propia responsabilidad y solo en entornos controlados con fines educativos.
+
 
 
 
