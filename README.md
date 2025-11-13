@@ -20,6 +20,13 @@ THO-DISCORD-CONTROL-REMOTO es una herramienta de control remoto que permite admi
 - 🔄 Reinicio y apagado remoto
 - 🔑 Recuperación de credenciales (solo con fines educativos)
 
+## 🔧 Requisitos
+
+- Go 1.16 o superior : https://go.dev/doc/install
+- Gcc win64 link : https://sourceforge.net/projects/gcc-win64/postdownload
+- Sistema operativo Windows (algunas funciones también son compatibles con Linux)
+- Token de bot de Discord . https://discord.com/developers-
+
 ## 🛠️ Instalación
 
 1. Clona este repositorio:
@@ -73,13 +80,6 @@ Una vez iniciado, el bot se conectará a Discord y estará listo para recibir co
 - `!updates` - Verifica actualizaciones pendientes
 - `!remove` - Elimina el ejecutable y lo quita del inicio
 
-## 🔧 Requisitos
-
-- Go 1.16 o superior
-- upx 5.0.1
-- Sistema operativo Windows (algunas funciones también son compatibles con Linux)
-- Token de bot de Discord
-
 ## 📝 Notas
 
 - Este es mi discord : https://discord.gg/uPESr5v7yQ
@@ -95,6 +95,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más deta
 
 
 ⚠️ ADVERTENCIA: El uso de este software para acceder a sistemas sin autorización puede constituir un delito. Úselo bajo su propia responsabilidad y solo en entornos controlados con fines educativos.
+
 
 
 
